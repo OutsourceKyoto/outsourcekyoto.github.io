@@ -420,3 +420,24 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+
+/* MAILCHIMP */
+
+#mce-EMAIL {
+  width: 44.5%;
+  padding: 19px 20px;
+  margin-top: 25px;
+}
+
+#mc-embedded-subscribe {
+  margin-top: 25px;
+}
+ 
+input[type="text"] {
+    color: #e74c3c!important;
+    font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif!important;
+}
+
+textarea:focus, input:focus {
+    color: #e74c3c;
+}
