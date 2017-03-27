@@ -154,9 +154,7 @@ header {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  background-position: static;
-  background-image: url('../img/header.jpg');
-  background-attachment: fixed;
+  background-image: url('../img/header.jpg') no-repeat fixed 100%;
   text-align: center;
   color: white;
 }
