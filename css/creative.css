@@ -154,7 +154,7 @@ header {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  background-position: center;
+  background-position: static;
   background-image: url('../img/header.jpg');
   -webkit-background-attachment: fixed;
   -moz-background-attachment: fixed;
